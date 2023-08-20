@@ -1,0 +1,8 @@
+Autor: PIOTR KAZIMIERZ BODYCH
+Nazwa: POLPIOTECH
+Technologia: MICROSOFT BATCH
+
+Skrypt ma na celu usprawnić pracę na aplikacjach i narzędziach systemu operacyjnego firmy Microsoft.
+
+- SKRYPT JEST TYLKO I WYŁĄCZNIE WŁASNOŚCIĄ OSOBISTĄ NALEŻĄCĄ PRAWNIE DO MOJEJ OSOBY TZN. PIOTRA KAZIMIERZA BODYCH.
+- WSZYSTKIE PRAWA AUTORSKIE ZASTRZEŻONE!

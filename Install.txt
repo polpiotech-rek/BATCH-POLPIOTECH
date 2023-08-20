@@ -1,0 +1,7 @@
+INSTRUKCJA WYWOŁYWANIA SKRYPTU:
+------------------------------------------------------------------------------------------------
+1. System operacyjny Microsoft Windows.
+2. Konto użytkownika "UserPiotrek".
+3. Dysk systemowy "C:\".
+4. Katalog Microsoft OneDrive zaimplementowany w domyślnej lokalizacji systemu Windows.
+5. Do wykorzystania pełnej funkcjonalności skryptu wymagane są uprawnienia administratora.

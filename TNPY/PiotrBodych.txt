@@ -1,0 +1,1 @@
+('Piotr', 'Bodych', 'Kazimierz', '22.01.1993', '¯yrardów', '93012200234', 'DAU095199', 'Wojska Polskiego', '37', '¯yrardów', '96-300', '¯yrardów', '513 154 109', 'p.bodych1993@outlook.com', 'Brawo Ja - Brawo My! :)')

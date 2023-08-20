@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
+	<name>SAMSUNG</name>
+	<SSIDConfig>
+		<SSID>
+			<hex>53414D53554E47</hex>
+			<name>SAMSUNG</name>
+		</SSID>
+	</SSIDConfig>
+	<connectionType>ESS</connectionType>
+	<connectionMode>auto</connectionMode>
+	<MSM>
+		<security>
+			<authEncryption>
+				<authentication>WPA2PSK</authentication>
+				<encryption>AES</encryption>
+				<useOneX>false</useOneX>
+			</authEncryption>
+			<sharedKey>
+				<keyType>passPhrase</keyType>
+				<protected>true</protected>
+				<keyMaterial>01000000D08C9DDF0115D1118C7A00C04FC297EB01000000569A2FAFB3DFBB43ABD1115CAD5B9257000000000200000000001066000000010000200000003CF59437FA935096107450C06FA4485A40A36025819F98C26355BEA03499E32C000000000E800000000200002000000072176271A784FBDC0383DEBC1F28A6585D1951C7EEED0818942F276A9E3756912000000066919BA1950BD16D69C4E42BBB2C04F8F52312BD2A8A379BCAB9C4D52F2426CE40000000C0FAEA7416214FD9477C5EDF6AD5CD6A95DDEAD75C6B58457B9098227413C82603EA0614C1177D60E34A2A0A74FC3B8E5AF7737277C2694FD8CC9B89071EC86F</keyMaterial>
+			</sharedKey>
+		</security>
+	</MSM>
+	<MacRandomization xmlns="http://www.microsoft.com/networking/WLAN/profile/v3">
+		<enableRandomization>false</enableRandomization>
+	</MacRandomization>
+</WLANProfile>

@@ -1,0 +1,44 @@
+AKTUALIZACJA: v1.2
+-------------------------------
+Aktualizacja nakładki systemowej POLPIOTECH.
+
+- Dodanie 9 nowych pozycji z aplikacjami.
+- Dodanie 2 narzędzi systemowych.
+- Dodanie nowej kategorii MICROSOFT z aplikacjami tej firmy.
+- Dodanie nowej kategorii TESTER OPROGRAMOWANIA oraz wprowadzenie narzędzi do przeprowadzania testów aplikacji.
+
+PROGRAMY: wykonane 02.11.2022 r.
+1. Google Chrome
+2. Mozilla Thunderbird
+3. Notepad++
+4. Sublime txt
+5. CCleaner
+6. Wireshark
+7. AdGuard
+8. PickPick
+9. CodeBlocks
+
+OGÓLNE: wykonane 02.11.2022 r.
+1. Menadżer Zadań
+2. Narzędzie do wycinania
+3. Kalkulator
+
+MICROSOFT: wykonane 31.10.2022 r.
+1. MS Excel
+2. MS PowerPoint
+3. MS Word
+4. MS Power BI
+5. MS Visual Studio
+
+TESTER OPROGRAMOWANIA: wykonane 01.11.2022 r.
+1. Postman
+2. SoapUI
+3. MySQL Workbench
+
+MICROSOFT DEFENDER: wykonane 10.12.2022 r.
+1. Szybkie skanowanie
+2. Pełne skanowanie
+3. Aktualizacja bazy
+
+SIEĆ: wykonane 14.12.2022 r.
+1. Sprawdź publiczny adres IP.
